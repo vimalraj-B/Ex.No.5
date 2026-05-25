@@ -133,7 +133,12 @@ To unlock consistent, production-grade results from ChatGPT, every critical prom
 4. **Output Specification (The Schema):** Format your entire final output as a `[Valid JSON Schema, Key-Value Markdown Block, or Comma-Separated Layout]`.
 
 
+
+
+
 [PROMPT 5.pdf](https://github.com/user-attachments/files/28228228/PROMPT.5.pdf)
+
+
 
 
 # RESULT:
